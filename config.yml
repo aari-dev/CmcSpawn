@@ -1,0 +1,16 @@
+boost:
+  height: 1.5
+  forward: 2.5
+
+jump:
+  window-ms: 500
+  cooldown-ms: 1000
+
+sound: ENTITY_ENDER_DRAGON_FLAP
+
+permission: cmcspawn.jump
+
+regions:
+  - "spawn"
+  - "pvp"
+  - ""
