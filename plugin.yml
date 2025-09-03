@@ -1,0 +1,10 @@
+name: CmcSpawn
+version: ${version}
+main: dev.aari.cmcspawn.CmcSpawn
+api-version: 1.21
+depend: [WorldGuard, WorldEdit]
+load: POSTWORLD
+
+permissions:
+  cmcspawn.jump:
+    default: op
